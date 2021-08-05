@@ -1,4 +1,7 @@
-# Vitis-AI_1.3.1_origin
+# Vitis-AI_1.3.1_origin: 
+Copied from verified commit: https://github.com/Xilinx/Vitis-AI/commit/5f4034287d91cd7ae33fb6adbf6b0d69a2f400e7
+People who want to work on Vitis-AI library version 1.3.1 can clone from here.
+
 <div align="center">
   <img width="100%" height="100%" src="docs/images/Vitis-AI.png">
 </div>
